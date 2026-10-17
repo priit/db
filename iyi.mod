@@ -1,1 +1,1 @@
-module github.com/iyilang/db
+module github.com/priit/db
